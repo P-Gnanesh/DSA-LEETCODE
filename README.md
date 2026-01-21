@@ -8,6 +8,7 @@ This repository contains implementations and solutions for Data Structures and A
 | ------- |
 | [0007-reverse-integer](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -39,4 +40,8 @@ This repository contains implementations and solutions for Data Structures and A
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
