@@ -10,25 +10,29 @@ class Solution {
 
         int arr[]=new int[count];
         temp=num;
-        for (int i = count - 1; i >= 0; i--) {
-            arr[i] = temp % 10;
-            temp /= 10;
+        for(int i=count-1;i>=0;i--)
+        {
+            arr[i]=temp%10;
+            temp/=10;
+
         }
 
-
-        for (int i = 0; i < count; i++) {
-            if (arr[i] == 6) {
-                arr[i] = 9;
+        for(int i=0;i<count;i++)
+        {
+            if(arr[i]==6)
+            {
+                arr[i]=9;
                 break;
             }
         }
 
-        int result = 0;
+         int result = 0;
         for (int i = 0; i < count; i++) {
             result = result * 10 + arr[i];
         }
 
         return result;
+
         
     }
 }
