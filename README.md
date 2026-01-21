@@ -10,6 +10,7 @@ This repository contains implementations and solutions for Data Structures and A
 | [0009-palindrome-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0258-add-digits) |
+| [1323-maximum-69-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/1323-maximum-69-number) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@ This repository contains implementations and solutions for Data Structures and A
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
