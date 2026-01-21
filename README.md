@@ -13,10 +13,12 @@ This repository contains implementations and solutions for Data Structures and A
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -25,4 +27,16 @@ This repository contains implementations and solutions for Data Structures and A
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
