@@ -6,6 +6,7 @@ This repository contains implementations and solutions for Data Structures and A
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0258-add-digits) |
 ## Array
