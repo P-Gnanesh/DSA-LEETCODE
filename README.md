@@ -9,6 +9,7 @@ This repository contains implementations and solutions for Data Structures and A
 | [0007-reverse-integer](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0258-add-digits) |
 | [1323-maximum-69-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/1323-maximum-69-number) |
 ## Array
@@ -21,6 +22,7 @@ This repository contains implementations and solutions for Data Structures and A
 | ------- |
 | [0001-two-sum](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +51,8 @@ This repository contains implementations and solutions for Data Structures and A
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/1323-maximum-69-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/P-Gnanesh/DSA-LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
